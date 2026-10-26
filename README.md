@@ -8,3 +8,11 @@
 - Git tracks changes to files.
 - GitHub host repositories online.
 - Commit records changes in the project history.
+
+## **My Computing Goals.**
+- I want to understand the basics of Programming
+- I want to learn about the Hardware part of Computers
+- I want to learn more about the different tools that will help make this course easier.
+
+## **My Favorite Technology.**
+My favorite technology in general are **Gadgets** because they helps people communicate with each other easily. For me, gadgets are also one of the best form of entertainment because they allow us to enjoy video games, movies, series, social media, and more.
