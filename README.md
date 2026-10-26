@@ -16,3 +16,6 @@
 
 ## **My Favorite Technology.**
 My favorite technology in general are **Gadgets** because they helps people communicate with each other easily. For me, gadgets are also one of the best form of entertainment because they allow us to enjoy video games, movies, series, social media, and more.
+
+## **Reflection**
+Since Git snapshots every time I commit, I wont have to worry if i accidentally remove or delete part of my work since the previous versions are saved.
